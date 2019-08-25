@@ -1,4 +1,4 @@
-package singleton.example.ex2;
+package com.wyc.singleton.example.ex2;
 
 import javax.swing.*;
 

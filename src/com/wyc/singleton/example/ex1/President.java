@@ -1,4 +1,4 @@
-package singleton.example.ex1;
+package com.wyc.singleton.example.ex1;
 
 /**
  * 美国总统单例类

@@ -1,4 +1,4 @@
-package singleton.example.ex1;
+package com.wyc.singleton.example.ex1;
 
 /**
  * 用懒汉式单例模式模拟产生美国当今总统对象。

@@ -1,4 +1,4 @@
-package singleton.thought;
+package com.wyc.singleton.thought;
 
 /**
  * 饿汉加载的单例模式
