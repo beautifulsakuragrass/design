@@ -31,4 +31,8 @@ public class LazySingleton {
         return instance;
     }
 
+    public void printName(){
+        System.out.println("wyc");
+    }
+
 }
