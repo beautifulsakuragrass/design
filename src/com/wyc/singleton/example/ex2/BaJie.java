@@ -18,7 +18,7 @@ class BaJie extends JPanel {
      * 私有的构造方法
      */
     private BaJie() {
-        JLabel l1 = new JLabel(new ImageIcon("src/singleton/example/ex2/BaJie.jpg"));
+        JLabel l1 = new JLabel(new ImageIcon("src/com/wyc/singleton/example/ex2/BaJie.jpg"));
         this.add(l1);
     }
 

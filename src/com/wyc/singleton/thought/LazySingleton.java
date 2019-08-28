@@ -1,4 +1,4 @@
-package singleton.thought;
+package com.wyc.singleton.thought;
 
 /**
  * 懒加载的单例模式
@@ -29,10 +29,6 @@ public class LazySingleton {
             instance = new LazySingleton();
         }
         return instance;
-    }
-
-    public void printName(){
-        System.out.println("wyc");
     }
 
 }
