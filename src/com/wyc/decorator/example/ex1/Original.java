@@ -5,6 +5,9 @@ import java.awt.*;
 
 /**
  * 具体构件角色：原身
+ *
+ * @author wyc
+ * @date 2019/10/2
  */
 public class Original extends JFrame implements Morrigan {
 
